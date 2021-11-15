@@ -6,7 +6,7 @@ Visualizations and analysis of Movie Ratings data set using matplotlib and seabo
 Plots utilizes in analysis include: KDE Plots, scatter plots on facet grids, violin plots, and stacked histograms
 
 ### Data
-#### Source: #### Python A-Z (Udemy)
+Source: Python A-Z (Udemy)
 
 Fields: Film, Genre, CriticRating, AudienceRating, BudgetMillions, Year
 

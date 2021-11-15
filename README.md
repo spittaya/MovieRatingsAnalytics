@@ -1,4 +1,4 @@
-# MovieRatingsAnalytics
+# Movie Ratings Analytics
 
 ## Summary
 Visualizations and analysis of Movie Ratings data set using matplotlib and seaborn.
